@@ -1,0 +1,51 @@
+//========================================================================================
+//  
+//  $File$
+//  
+//  Owner: Michael Burbidge
+//  
+//  $Author$
+//  
+//  $DateTime$
+//  
+//  $Revision$
+//  
+//  $Change$
+//  
+//  Copyright 1997-2010 Adobe Systems Incorporated. All rights reserved.
+//  
+//  NOTICE:  Adobe permits you to use, modify, and distribute this file in accordance 
+//  with the terms of the Adobe license agreement accompanying it.  If you have received
+//  this file from a source other than Adobe, then your use, modification, or 
+//  distribution of it requires the prior written permission of Adobe.
+//  
+//========================================================================================
+
+#ifndef __StringTable_fh__
+#define __StringTable_fh__
+
+#include "CoreResTypes.h"
+#include "PMTypes.fh"
+
+#if defined(MACINTOSH) && defined (__MWERKS__)
+#include "CWSettings.h"
+#endif
+
+#ifdef __ODFRC__
+
+type StringTable (kStringTableRsrcType)
+{
+	longint;					// Language Id
+	longint;					// Character encoding converter ClassID
+	
+	longint = $$CountOf(Strings);
+	array Strings
+	{
+		wstring;						// String key 
+		wstring;						// The string
+	}
+};
+
+#endif // __ODFRC__
+
+#endif // __StringTable_fh__

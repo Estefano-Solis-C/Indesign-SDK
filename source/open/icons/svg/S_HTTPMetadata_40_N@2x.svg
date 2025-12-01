@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+      }
+    </style>
+  </defs>
+  <g id="icons-2" data-name="icons">
+    <path class="fill" d="M64,8H16a4,4,0,0,0-4,4V68a4.00012,4.00012,0,0,0,4,4H64a4.00012,4.00012,0,0,0,4-4V12A4,4,0,0,0,64,8ZM26,66H18V58h8Zm0-12H18V46h8Zm0-12H18V34h8ZM62,66H30V58H62Zm0-12H30V46H62Zm0-12H30V34H62Zm0-12H18V14H62Z"/>
+  </g>
+</svg>

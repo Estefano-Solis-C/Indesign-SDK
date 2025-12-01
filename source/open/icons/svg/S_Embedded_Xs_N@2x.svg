@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 0 26 26" width="26">
+  <defs>
+    <style>
+      .fill{
+		fill: #6E6E6E;
+		fill-rule: evenodd;
+		}
+    </style>
+  </defs>
+  <g id="icons">
+    <path class="fill" d="M23,2H3A1,1,0,0,0,2,3V23a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V3A1,1,0,0,0,23,2ZM14,22H4V12H14V22Zm1.5-6V10.5H7.47705L13,2.6001,23,16Z" />
+  </g>
+</svg>

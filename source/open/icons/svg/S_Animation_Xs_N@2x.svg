@@ -1,0 +1,14 @@
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="fill" d="M17.58579,2H5A1,1,0,0,0,4,3V23a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V8.70711A1,1,0,0,0,23.70711,8L18.29289,2.29289A1,1,0,0,0,17.58579,2ZM18,4.54189,21.45824,8H18ZM22,22H6V4H16V9a1,1,0,0,0,1,1h5Z"/>
+  <circle class="fill" cx="9.375" cy="8.375" r="1.375"/>
+  <circle class="fill" cx="12.0625" cy="13.0625" r="2.0625"/>
+  <circle class="fill" cx="16.75" cy="17.25" r="2.75"/>
+</svg>

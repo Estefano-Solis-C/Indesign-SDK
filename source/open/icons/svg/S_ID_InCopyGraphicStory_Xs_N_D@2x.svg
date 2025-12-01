@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_ID_InCopyGraphicStory_Xs_N_D@2x" height="26" id="S_ID_InCopyGraphicStory_Xs_N_D@2x" viewBox="0 0 26 26" width="26">
+  <defs>
+    <style>
+	.fill {
+        fill: #ffffff;
+		fill-rule: evenodd;
+		opacity: 0.65;
+	}
+	</style>
+  </defs>
+  <path class="fill" d="M23,2H3A1,1,0,0,0,2,3V23a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V3A1,1,0,0,0,23,2ZM11.58582,13,4,20.58582V5.41418ZM5.41418,4H20.58582L13,11.58582ZM13,14.41418,20.58582,22H5.41418ZM14.41418,13,22,5.41418V20.58582Z" />
+</svg>

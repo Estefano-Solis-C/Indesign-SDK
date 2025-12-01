@@ -1,0 +1,30 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "DynamicDocumentsUIDefs.h"
+resource SVGA(kAnimationUIPanelIconRsrcID) "S_PL_Animation_N@2x.svg"
+resource SVGA(kAnimationUIPresetPopupMenuIconRsrcID) "S_DownArrow_Xs_N@2x.svg"
+resource SVGA(kAnimationUIEventSelectorIconRsrcID) "S_DownArrow_Xs_N@2x.svg"
+resource SVGA(kConvertToMotionPath) "S_ConvertToMotionPath_Wi_N@2x.svg"
+resource SVGA(kAnimationUIShowPreviewIcon) "S_ShowPreviewPanel_Wi_N@2x.svg"
+resource SVGA(kAnimationUIShowProxyIcon) "S_ShowProxy_Wi_N@2x.svg"
+resource SVGA(kAnimationUIScaleLockIcon) "S_LinkHori_Sm_N@2x.svg"
+resource SVGA(kAnimationUIScaleUnlockIcon) "S_UnLinkHori_Sm_N@2x.svg"
+resource SVGA(kAnimationUIButtonTriggerIcon) "S_CreateTriggerButton_Sm_N@2x.svg"
+resource SVGA(kAnimationUIClearAnimationIcon) "S_Delete_Wi_N@2x.svg"
+resource SVGA(kAnimationUIShowTimingIcon) "S_TimingPanel_Wi_N@2x.svg"
+resource SVGA(kAnimationUIAnimationAdornmentIcon) "S_AnimationAdorn_Lg_N@2x.svg"
+//	Used only if event list is implemented as owner-draw list.
+resource SVGA(kAnimationUITriggerEventCheckedIcon) "S_CheckMark_Xs_N@2x.svg"
+resource SVGA(kAnimationUITriggerEventBlankIcon) "S_Blank_Md_N@2x.svg"
+#endif

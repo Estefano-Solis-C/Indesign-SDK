@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="36" viewBox="0 0 42 36">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="icons">
+    <path class="fill" d="M12,22a6,6,0,1,1-6,6A6.0068,6.0068,0,0,1,12,22Zm0-2a8,8,0,1,0,8,8A8,8,0,0,0,12,20Z"/>
+    <path class="fill" d="M26,14a4,4,0,1,1-4,4A4.00452,4.00452,0,0,1,26,14Zm0-2a6,6,0,1,0,6,6A6,6,0,0,0,26,12Z"/>
+    <path class="fill" d="M31,2a3,3,0,1,1-3,3A3.00337,3.00337,0,0,1,31,2Zm0-2a5,5,0,1,0,5,5A5,5,0,0,0,31,0Z"/>
+  </g>
+</svg>

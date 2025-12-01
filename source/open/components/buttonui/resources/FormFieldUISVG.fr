@@ -1,0 +1,39 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "FormFieldUIDefs.h"
+resource SVGA(kStateEnabledIcon) "S_Visibility_Xs_N@2x.svg"
+resource SVGA(kStateBlankIcon) "S_Blank_Md_N@2x.svg"
+resource SVGA(kConvertToButtonIcon) "S_ConvertToButton_Wi_N@2x.svg"
+resource SVGA(kConvertToObjectIcon) "S_ConvertToObject_Wi_N@2x.svg"
+resource SVGA(kShowPreviewIconRsrcID) "S_ShowPreviewPanel_Wi_N@2x.svg"
+resource SVGA(kAppearancePaletteIconRsrcID) "S_PL_ButtonsAndForms_N@2x.svg"
+resource SVGA(kAddActionIconRsrcId) "S_AddPopup_Wi_N@2x.svg"
+resource SVGA(kRemoveActionIconRsrcId) "S_Remove_Wi_N@2x.svg"
+resource SVGA(kChooseFileIconRsrcId) "S_Folder_Wi_N@2x.svg"
+//TODO_SVG
+//resource SVGA(kMediumThumbnailPictRsrcID) "S_ThumbnailSize_31x31_N@2x.svg"
+//TODO_SVG
+//resource SVGA(kLargeThumbnailPictRsrcID) "S_ThumbnailSize_56x56_N@2x.svg"
+//TODO_SVG
+//resource SVGA(kExtraLargeThumbnailPictRsrcID) "S_ThumbnailSize_81x81_N@2x.svg"
+resource SVGA(kMSOPanelIconRsrcID) "S_PL_States_N@2x.svg"
+//TODO_SVG
+//resource SVGA(kMSOIsSelectedIconRsrcID) "SP_MultipleStates_Md_N@2x.svg"
+resource SVGA(kMSOIsNotSelectedIconRsrcID) "S_DLnone_Xs_N@2x.svg"
+resource SVGA(kMSOStateIsSelectedIconRsrcID) "S_StatesObjectSelected_Sm_N@2x.svg"
+resource SVGA(kMSOStateContentIsSelectedIconRsrcID) "S_StatesContentSelected_Sm_N@2x.svg"
+resource SVGA(kPasteIntoMSOStateIconRsrcID) "S_PasteInState_Wi_N@2x.svg"
+resource SVGA(kAddToMSOStateIconRsrcID) "S_AddToState_Wi_N@2x.svg"
+resource SVGA(kAddListOptionIconRsrcId) "S_Add_Wi_N@2x.svg"
+#endif

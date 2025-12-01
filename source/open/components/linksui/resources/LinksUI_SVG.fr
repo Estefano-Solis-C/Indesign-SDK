@@ -1,0 +1,61 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "LinksUIResDefs.h"
+// Palette Icons
+resource SVGA(kLinksUIPanelIconRsrcID) "S_PL_Links_N@2x.svg"
+resource SVGA(kLinksUIUpdateLinkButtonIconRsrcID) "S_Update_Wi_N@2x.svg"
+resource SVGA(kLinksUIRelinkButtonIconRsrcID) "S_LinkHori_Wi_N@2x.svg"
+resource SVGA(kLinksUICCRelinkButtonIconRsrcID) "S_CCRelinkLibrary_Wi_N@2x.svg"
+resource SVGA(kLinksUIAALRelinkButtonIconRsrcID) "S_LinkedAssetRelink_Wi_N@2x.svg"
+resource SVGA(kLinksUIGotoLinkButtonIconResID) "S_GoToLink_Wi_N@2x.svg"
+resource SVGA(kLinksUIEditOriginalButtonIconResID) "S_Edit_Wi_N@2x.svg"
+resource SVGA(kLinksUIGotoNextIconRsrcID) "S_Next_Xs_N@2x.svg"
+resource SVGA(kLinksUIGotoPrevIconRsrcID) "S_Previous_Xs_N@2x.svg"
+resource SVGA(kLinksUIGenericAudioSmIconRsrcID) "S_Audio_Xs_N@2x.svg"
+resource SVGAD(kLinksUIGenericAudioSmIconRsrcID) "S_Audio_Xs_N_D@2x.svg"
+resource SVGA(kLinksUIGenericAudioMdIconRsrcID) "S_Audio_20_N@2x.svg"
+resource SVGAD(kLinksUIGenericAudioMdIconRsrcID) "S_Audio_20_N_D@2x.svg"
+resource SVGA(kLinksUIGenericAudioLgIconRsrcID) "S_Audio_40_N@2x.svg"
+resource SVGAD(kLinksUIGenericAudioLgIconRsrcID) "S_Audio_40_N_D@2x.svg"
+resource SVGA(kLinksUIGenericMovieSmIconRsrcID) "S_Video_Xs_N@2x.svg"
+resource SVGAD(kLinksUIGenericMovieSmIconRsrcID) "S_Video_Xs_N_D@2x.svg"
+resource SVGA(kLinksUIGenericMovieMdIconRsrcID) "S_Video_20_N@2x.svg"
+resource SVGAD(kLinksUIGenericMovieMdIconRsrcID) "S_Video_20_N_D@2x.svg"
+resource SVGA(kLinksUIGenericMovieLgIconRsrcID) "S_Video_40_N@2x.svg"
+resource SVGAD(kLinksUIGenericMovieLgIconRsrcID) "S_Video_40_N_D@2x.svg"
+resource SVGA(kLinksUISWFMovieSmIconRsrcID) "S_Animation_Xs_N@2x.svg"
+resource SVGA(kLinksUISWFMovieMdIconRsrcID) "S_Animation_20_N@2x.svg"
+resource SVGA(kLinksUISWFMovieLgIconRsrcID) "S_Animation_40_N@2x.svg"
+resource SVGA(kLinksUIHTTPMetadataSmIconRsrcID) "S_HTTPMetadata_Xs_N@2x.svg"
+resource SVGAD(kLinksUIHTTPMetadataSmIconRsrcID) "S_HTTPMetadata_Xs_N_D@2x.svg"
+resource SVGA(kLinksUIGenericTextSmIconRsrcID) "S_Textfile_Xs_N@2x.svg"
+resource SVGAD(kLinksUIGenericTextSmIconRsrcID) "S_Textfile_Xs_N_D@2x.svg"
+resource SVGA(kLinksUIHTTPMetadataMdIconRsrcID) "S_HTTPMetadata_20_N@2x.svg"
+resource SVGAD(kLinksUIHTTPMetadataMdIconRsrcID) "S_HTTPMetadata_20_N_D@2x.svg"
+resource SVGA(kLinksUIHTTPMetadataLgIconRsrcID) "S_HTTPMetadata_40_N@2x.svg"
+resource SVGAD(kLinksUIHTTPMetadataLgIconRsrcID) "S_HTTPMetadata_40_N_D@2x.svg"
+resource SVGA(kLinksUIGenericTextMdIconRsrcID) "S_Textfile_20_N@2x.svg"
+resource SVGAD(kLinksUIGenericTextMdIconRsrcID) "S_Textfile_20_N_D@2x.svg"
+resource SVGA(kLinksUIGenericTextLgIconRsrcID) "S_Textfile_40_N@2x.svg"
+resource SVGAD(kLinksUIGenericTextLgIconRsrcID) "S_Textfile_40_N_D@2x.svg"
+resource SVGA(kLinksUIInCopyGraphicStorySmIconRsrcID) "S_ID_InCopyGraphicStory_Xs_N@2x.svg"
+resource SVGAD(kLinksUIInCopyGraphicStorySmIconRsrcID) "S_ID_InCopyGraphicStory_Xs_N_D@2x.svg"
+resource SVGA(kLinksUIInCopyGraphicStoryMdIconRsrcID) "S_ID_InCopyGraphicStory_20_N@2x.svg"
+resource SVGAD(kLinksUIInCopyGraphicStoryMdIconRsrcID) "S_ID_InCopyGraphicStory_20_N_D@2x.svg"
+resource SVGA(kLinksUIInCopyGraphicStoryLgIconRsrcID) "S_ID_InCopyGraphicStory_40_N@2x.svg"
+resource SVGAD(kLinksUIInCopyGraphicStoryLgIconRsrcID) "S_ID_InCopyGraphicStory_40_N_D@2x.svg"
+resource SVGA(kLinksUIAddRowIconRsrcID) "S_Add_Wi_N@2x.svg"
+resource SVGA(kLinksUIDeleteRowIconRsrcID) "S_Remove_Wi_N@2x.svg"
+resource SVGA(kCaptionMetaCharIconRsrc) "S_Next_Xs_N@2x.svg"
+#endif

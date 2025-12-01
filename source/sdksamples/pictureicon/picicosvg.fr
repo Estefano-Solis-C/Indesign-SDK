@@ -1,0 +1,22 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "PicIcoID.h"
+resource SVGA(kPicIcoPNGIconRsrcID) "S_TextSize_Md_N@2x.svg"
+resource SVGA(kPicIcoTopOutsidePictureRsrcID) "S_TopOutside_66x45_N@2x.svg"
+resource SVGA(kPicIcoTopInsidePictureRsrcID) "S_TopInside_66x45_N@2x.svg"
+resource SVGA(kPicIcoBottomOutsidePictureRsrcID) "S_BottomOutside_66x45_N@2x.svg"
+resource SVGA(kPicIcoBottomInsidePictureRsrcID)	"S_BottomInside_66x45_N@2x.svg"
+resource SVGA(kPicIcoCenterVertPictureRsrcID) "S_CenterVert_66x45_N@2x.svg"
+resource SVGA(kPicIcoCenterHorzPictureRsrcID) "S_CenterHorz_66x45_N@2x.svg"
+resource SVGA(kPicIcoCenterCompPictureRsrcID) "S_CenterComp_66x45_N@2x.svg"
+#endif

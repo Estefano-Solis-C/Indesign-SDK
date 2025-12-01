@@ -1,0 +1,25 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "LayerPanelDefs.h"
+resource SVGA(kLayerBlankIcon) "S_Blank_Md_N@2x.svg"
+resource SVGA(kLayerLockedIcon) "S_Locked_Xs_N@2x.svg"
+resource SVGA(kLayerPenIcon) "S_PenPalette_Xs_N@2x.svg"
+resource SVGA(kLayerPenLockedIcon) "S_LockPen_Xs_N@2x.svg"
+resource SVGA(kLayerPenSmallIcon) "S_PenPalette_Xs_N@2x.svg"
+resource SVGA(kLayerPenLockedSmallIcon) "S_LockPen_Xs_N@2x.svg"
+resource SVGA(kLayerProxyCantDropIcon) "S_NoTarget_Xs_N@2x.svg"
+resource SVGAD(kLayerProxyCantDropIcon) "S_NoTarget_Xs_N_D@2x.svg"
+// Palette Icons
+resource SVGA(kLayerPaletteIconRsrcID) "S_PL_Layers_N@2x.svg"
+#endif

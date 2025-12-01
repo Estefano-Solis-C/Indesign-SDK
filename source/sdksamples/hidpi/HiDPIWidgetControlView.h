@@ -1,0 +1,45 @@
+//========================================================================================
+//  
+//  $File$
+//  
+//  Owner: Neelabh Sunny
+//  
+//  $Author$
+//  
+//  $DateTime$
+//  
+//  $Revision$
+//  
+//  $Change$
+//  
+//  Copyright 1997-2010 Adobe Systems Incorporated. All rights reserved.
+//  
+//  NOTICE:  Adobe permits you to use, modify, and distribute this file in accordance 
+//  with the terms of the Adobe license agreement accompanying it.  If you have received
+//  this file from a source other than Adobe, then your use, modification, or 
+//  distribution of it requires the prior written permission of Adobe.
+//  
+//  
+//  Each C++ implementation class in the plug-in and its corresponding ImplementationID
+//  should be registered in this file.
+//  
+//========================================================================================
+#ifndef __HiDPIWidgetControlView_h__
+#define __HiDPIWidgetControlView_h__
+
+#include "DVControlView.h"
+
+class HiDPIWidgetControlView : public DVControlView
+{
+public:
+
+	/** Constructor. */
+	HiDPIWidgetControlView(IPMUnknown* iBossP) : DVControlView(iBossP) {}
+	
+	virtual void ReadWrite(IPMStream* iStreamP, ImplementationID iImpID);
+
+	/** Draw function actually draws PNG image within icon */
+	virtual void Draw(IViewPort* iViewPortP, SysRgn iUpdateRgn);
+};
+
+#endif

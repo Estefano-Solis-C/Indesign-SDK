@@ -1,0 +1,19 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "DynamicDocumentsUIDefs.h"
+resource SVGA(kTimingPaletteIconRsrcID) "S_PL_Timing_N@2x.svg"
+resource SVGA(kTimingPanelShowPreviewIconRsrcID) "S_ShowPreviewPanel_Wi_N@2x.svg"
+resource SVGA(kTimingPanelPlayTogetherIconRsrcID) "S_PlayTogether_Wi_N@2x.svg"
+resource SVGA(kTimingPanelPlaySeparatelyIconRsrcID) "S_PlaySeparately_Wi_N@2x.svg"
+#endif

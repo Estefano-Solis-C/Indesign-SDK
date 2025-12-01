@@ -1,0 +1,19 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "BehaviorUIDefs.h"
+resource SVGA(kCheckMarkIconRsrcID) "S_CheckMark_Xs_N@2x.svg"
+resource SVGA(kShowFieldIconRsrcID) "S_Visibility_Xs_N@2x.svg"
+resource SVGA(kHideFieldIconRsrcID) "S_VisibilityOff_Xs_N@2x.svg"
+resource SVGA(kBlankIconRsrcID) "S_Ignore_Xs_N@2x.svg"
+#endif

@@ -1,0 +1,16 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "DynamicDocumentsUIDefs.h"
+resource SVGA(kLiquidLayoutPaletteIconRsrcID) "S_PL_LiquidLayout_N@2x.svg"
+#endif

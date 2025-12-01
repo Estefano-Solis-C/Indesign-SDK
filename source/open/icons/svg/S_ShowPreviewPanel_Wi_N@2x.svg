@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 0 40 26" width="40">
+  <defs>
+    <style>
+      .fill{
+		fill: #6E6E6E;
+		fill-rule: evenodd;
+		}
+    </style>
+  </defs>
+  <g id="icons">
+    <path class="fill" d="M10,4H30V18H10ZM8,3V19a1,1,0,0,0,1,1h7v2H12.5a.5.5,0,0,0-.5.5v1a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,.5-.5v-1a.5.5,0,0,0-.5-.5H24V20h7a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H9A1,1,0,0,0,8,3Z" data-name="outline%20/%20monitor" id="outline_20_20monitor" />
+    <path class="fill" d="M17.01543,6.15966,24.25,11l-7.23457,4.84034C16.60621,16.21875,16,15.882,16,15.27623V6.72377C16,6.118,16.60621,5.78125,17.01543,6.15966Z" />
+  </g>
+</svg>

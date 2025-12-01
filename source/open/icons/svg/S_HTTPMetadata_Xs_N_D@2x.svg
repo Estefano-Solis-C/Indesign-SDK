@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_HTTPMetedata_Xs_N_D@2x" height="26" id="S_HTTPMetedata_Xs_N_D@2x" viewBox="0 0 26 26" width="26">
+  <defs>
+    <style>
+	.fill {
+        fill: #ffffff;
+		fill-rule: evenodd;
+		opacity: 0.65;
+	}
+	</style>
+  </defs>
+  <g data-name="icons" id="icons-2">
+    <path class="fill" d="M4,3V21a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H5A1,1,0,0,0,4,3Zm6,17H6V18h4Zm0-4H6V14h4Zm0-4H6V10h4Zm10,8H12V18h8Zm0-4H12V14h8Zm0-4H12V10h8Zm0-4H6V4H20Z" />
+  </g>
+</svg>

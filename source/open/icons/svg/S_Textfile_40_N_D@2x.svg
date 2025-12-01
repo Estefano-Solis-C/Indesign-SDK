@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_Textfile_40_N_D@2x" height="80" id="S_Textfile_40_N_D@2x" viewBox="0 0 80 80" width="80">
+  <defs>
+    <style>
+	.fill {
+        fill: #ffffff;
+		fill-rule: evenodd;
+		opacity: 0.65;
+	}
+	</style>
+  </defs>
+  <rect class="fill" height="18" rx="0.5" transform="translate(54 -8) rotate(90)" width="2" x="30" y="14" />
+  <rect class="fill" height="18" rx="0.5" transform="translate(60 -2) rotate(90)" width="2" x="30" y="20" />
+  <rect class="fill" height="37" rx="0.5" transform="translate(75.5 -5.5) rotate(90)" width="2" x="39.5" y="16.5" />
+  <rect class="fill" height="37" rx="0.5" transform="translate(81.5 0.5) rotate(90)" width="2" x="39.5" y="22.5" />
+  <rect class="fill" height="37" rx="0.5" transform="translate(87.5 6.5) rotate(90)" width="2" x="39.5" y="28.5" />
+  <rect class="fill" height="37" rx="0.5" transform="translate(93.5 12.5) rotate(90)" width="2" x="39.5" y="34.5" />
+  <rect class="fill" height="37" rx="0.5" transform="translate(99.5 18.5) rotate(90)" width="2" x="39.5" y="40.5" />
+  <path class="fill" d="M67.50415,25,51.19714,8.49585A1.69291,1.69291,0,0,0,50,8H13a1,1,0,0,0-1,1V71a1,1,0,0,0,1,1H67a1,1,0,0,0,1-1V26.19714A1.693,1.693,0,0,0,67.50415,25ZM66,70H14V10H48V27a1,1,0,0,0,1,1H66ZM50,26V10L66,26Z" />
+</svg>

@@ -1,0 +1,44 @@
+//========================================================================================
+//  
+//  $File$
+//  
+//  Owner: mvogel
+//  
+//  $Author$
+//  
+//  $DateTime$
+//  
+//  $Revision$
+//  
+//  $Change$
+//  
+//  Copyright 1997-2010 Adobe Systems Incorporated. All rights reserved.
+//  
+//  NOTICE:  Adobe permits you to use, modify, and distribute this file in accordance 
+//  with the terms of the Adobe license agreement accompanying it.  If you have received
+//  this file from a source other than Adobe, then your use, modification, or 
+//  distribution of it requires the prior written permission of Adobe.
+//  
+//  
+//  ADOBE CONFIDENTIAL
+//  
+//========================================================================================
+
+#pragma once
+#ifndef __ICUForwardDeclare__
+#define __ICUForwardDeclare__
+
+#ifndef ID_ICU_NAMESPACE
+#ifdef WINDOWS
+#define ID_ICU_NAMESPACE icu_73
+#else
+#define ID_ICU_NAMESPACE icu_73
+#endif
+#endif
+
+namespace ID_ICU_NAMESPACE {
+class Locale;
+};
+
+
+#endif 

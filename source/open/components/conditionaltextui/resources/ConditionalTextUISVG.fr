@@ -1,0 +1,21 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "ConditionalTextUIDefs.h"
+resource SVGA(kConditionalTextUIPanelIconRsrcID) "S_PL_TextConditional_N@2x.svg"
+//TODO_SVG
+//resource SVGA(kAppliedToSomeCharactersIndicatorRsrcID) "SP_CheckMarkDim_Xs_N@2x.svg"
+resource SVGA(kAppliedToAllCharactersIndicatorRsrcID) "S_CheckMark_Xs_N@2x.svg"
+resource SVGA(kQuickApplyConditionPNGRsrcID) "S_TextCondQuickApply_Xs_N@2x.svg"
+resource SVGA(kQuickApplyConditionSetPNGRsrcID) "S_MenuItem_Sm_N@2x.svg"
+#endif

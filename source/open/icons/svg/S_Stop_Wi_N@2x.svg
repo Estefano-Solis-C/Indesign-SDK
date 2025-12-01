@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="26" id="icons" viewBox="0 0 40 26" width="40">
+  <defs>
+    <style>
+      .fill{
+		fill: #6E6E6E;
+		fill-rule: evenodd;
+		}
+    </style>
+  </defs>
+  <rect class="fill" height="16" rx="1" width="16" x="12" y="5" />
+</svg>

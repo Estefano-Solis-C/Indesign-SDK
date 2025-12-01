@@ -1,0 +1,57 @@
+//========================================================================================
+//  
+//  $File$
+//  
+//  Owner: Jianlan Song
+//  
+//  $Author$
+//  
+//  $DateTime$
+//  
+//  $Revision$
+//  
+//  $Change$
+//  
+//  Copyright 1997-2010 Adobe Systems Incorporated. All rights reserved.
+//  
+//  NOTICE:  Adobe permits you to use, modify, and distribute this file in accordance 
+//  with the terms of the Adobe license agreement accompanying it.  If you have received
+//  this file from a source other than Adobe, then your use, modification, or 
+//  distribution of it requires the prior written permission of Adobe.
+//  
+//========================================================================================
+
+#pragma once
+
+#include "HyperlinkID.h"
+#include "IPMUnknown.h"
+
+// ===================================================================================
+//	class INewHyperlinkURLDestCmdData
+// ===================================================================================
+/** Command data interface, set/get the URL destination data for the command kNewHyperlinkURLDestCmdBoss
+*/
+class INewHyperlinkURLDestCmdData : public IPMUnknown {
+
+//-----------------------------------
+//	Constants
+//
+public:
+	enum {kDefaultIID = IID_INEWHYPERLINKURLDESTCMDDATA};
+
+//-----------------------------------
+//
+public:
+
+	/**	Get destination unique key
+		@return int32 unique key
+	 */
+	virtual int32 GetUniqueKey() const = 0;
+	/**	Set unique key value
+		@param unique key
+	 */
+	virtual void SetUniqueKey(int32 uniqueKey) = 0;
+		
+};
+
+

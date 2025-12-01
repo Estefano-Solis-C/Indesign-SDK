@@ -1,0 +1,18 @@
+//========================================================================================
+// Copyright 2021 Adobe
+// 
+// All Rights Reserved.
+// 
+// NOTICE: Adobe permits you to use, modify, and distribute this file in
+// accordance with the terms of the Adobe license agreement accompanying
+// it.
+//  
+//========================================================================================
+
+#ifdef __ODFRC__
+#include "IconPNGDefs.h"
+#include "DynamicDocumentsUIDefs.h"
+//	Basil PageTransitionsPanel UI
+resource SVGA(kPageTransitionsPaletteIconRsrcID) "S_PL_PageTransition_N@2x.svg"
+resource SVGA(kPageTransitionsIconRsrcID) "S_ApplyToAllSpreads_Wi_N@2x.svg"
+#endif

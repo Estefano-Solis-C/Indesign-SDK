@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="26" viewBox="0 0 40 26">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="icons">
+    <path class="fill" d="M24,2.41406,29.52834,8H24ZM14,2h8V9.5a.5.5,0,0,0,.5.5H30V22H14ZM12,23a1,1,0,0,0,1,1H31a1,1,0,0,0,1-1V7.96167a1.00009,1.00009,0,0,0-.29291-.70715L24.64937.293A.99975.99975,0,0,0,23.94228,0H13a1,1,0,0,0-1,1Z"/>
+  </g>
+</svg>
